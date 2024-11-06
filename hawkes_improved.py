@@ -1,6 +1,7 @@
 import numpy as np
 import numpy.random as npr
 
+# From lecture slides
 class DES:
     def __init__(self):
         self.agenda = {}
